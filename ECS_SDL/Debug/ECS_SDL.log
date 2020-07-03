@@ -1,0 +1,10 @@
+﻿  ECS_SDL.cpp
+  Engine.cpp
+  GraphicSystem.cpp
+  WorldSystem.cpp
+D:\software_development\C++\SDL_VSCODE\ECS_SDL\ECS_SDL\WorldSystem.cpp(17,3): error C2275: 'WorldSystem': illegal use of this type as an expression
+D:\software_development\C++\SDL_VSCODE\ECS_SDL\ECS_SDL\WorldSystem.cpp(17,14): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
+D:\software_development\C++\SDL_VSCODE\ECS_SDL\ECS_SDL\ComponentManager.h(92): warning C4715: 'ComponentManager<TransformComps::Position>::at': not all control paths return a value
+D:\software_development\C++\SDL_VSCODE\ECS_SDL\ECS_SDL\ComponentManager.h(92): warning C4715: 'ComponentManager<TextureComps::TextStreamTexture>::at': not all control paths return a value
+D:\software_development\C++\SDL_VSCODE\ECS_SDL\ECS_SDL\ComponentManager.h(92): warning C4715: 'ComponentManager<TextureComps::TextStreamTexture>::at': not all control paths return a value
